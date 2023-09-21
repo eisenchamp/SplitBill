@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  SplitBill
-//
-//  Created by Temirlan Tursynbekov on 21.09.2023.
-//
-
 import UIKit
 
 @main
